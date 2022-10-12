@@ -1,0 +1,31 @@
+.home-container{
+  margin: 10px;
+  min-height: 400px;
+}
+
+.menu-container{
+  margin-top: 30px;
+}
+
+.menu-title{
+  background-color: #0e91d6;
+  color: white;
+  padding: 5px;
+}
+
+.menu-item{
+  font-weight: bold;
+  color: #0e91d6;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid  #cccccc 1px;
+}
+
+.page-heading{
+  color: gray;
+}
+
+.action-heading{
+  color: gray;
+}

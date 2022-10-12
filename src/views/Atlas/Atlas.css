@@ -1,0 +1,63 @@
+.atlas-container{
+  padding: 20px;
+  min-height: 450px;
+}
+
+.page-title{
+  color: gray;
+}
+
+.search-container{
+  background-color: #e6e6e6;
+  padding: 10px;
+}
+
+.filter-title{
+  background-color: #0e91d6;
+  color: white;
+  padding: 5px;
+}
+
+.search-box{
+  width: 350px;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+.search-button{
+  margin-left: 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+th, td{
+  padding: 5px;
+  border: 1px solid  #cccccc;
+  min-width: 100px;
+}
+tr:nth-child(even){
+  background-color: #e6e6e6;
+}
+
+.report-button{
+  background-color: #0e91d6;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+  width: 100px;
+  border: 1px solid gray;
+}
+.report-button:hover{
+  background-color: #4fbdf8;
+}
+
+.filter-menu{
+  padding-left: 10px;
+  margin: 5px;
+  color: gray;
+}
+.filter-menu:hover{
+  color: black;
+  cursor: pointer;
+}
+

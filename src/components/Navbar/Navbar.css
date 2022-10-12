@@ -1,0 +1,10 @@
+.navbar{
+    background-color: #0e91d6;
+    color:white ;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-menus{
+    margin-right: 20px;
+}
